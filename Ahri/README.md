@@ -7,15 +7,15 @@
 |![Ionia](https://game.gtimg.cn/images/lol/universe/images/iona_emblem.png)|
 > 人心善变，甚于最深奥的魔法。
 
-`法师` `刺客`
+`法师`  `刺客`
 
-##技能
+## 技能
 被动|Q|W|E|R
 ----|-|-|-|-
 ![摄魂夺魄](https://game.gtimg.cn/images/lol/act/img/passive/Ahri_SoulEater2.png)|![欺诈宝珠](https://game.gtimg.cn/images/lol/act/img/spell/AhriOrbofDeception.png)|![妖异狐火](https://game.gtimg.cn/images/lol/act/img/spell/AhriFoxFire.png)|![魅惑妖术](https://game.gtimg.cn/images/lol/act/img/spell/AhriSeduce.png)|![灵魄突袭](https://game.gtimg.cn/images/lol/act/img/spell/AhriTumble.png)
 
 
-##背景故事
+## 背景故事
 >天生就与精神领域的魔法存在连接的阿狸，是一名狐狸模样的瓦斯塔亚，在世界上寻找着自己所属的位置。进入凡人社会以后，她成为了一名充满悔意和同情心的掠食者，她喜欢操纵猎物的情绪，然后再吸食他们的生命精魄——每吞噬一个灵魂，都伴着他们生前的记忆片段与领悟洞见。
 
 
