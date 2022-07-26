@@ -1,5 +1,5 @@
 # ROIT COLLECTION
-## ![ROIT_LOL](https://game.gtimg.cn/images/lol/v3/logo-public.png)
+## ![ROIT_LOL](https://cdn.garenanow.com/web/image/lol/landing-dominion/SG-EN/2022/FEB/SEASONSTART/1220x400.jpg))
 
 ## Statement
  - This project is a non-profit project.
