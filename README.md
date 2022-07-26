@@ -7,3 +7,4 @@
  - The purpose of this project is to help players better understand the background of the story and fully understand the essence.
 
 ## Contributors are welcome.
+ © 2022 拳头游戏。版权所有。
