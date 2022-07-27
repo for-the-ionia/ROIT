@@ -15,23 +15,23 @@
 
 ---
  - **皮肤**
- - ![](https://pic1.zhimg.com/80/v2-fa75c2af8dae4b51f23d8d060c26cec4_720w.jpg)
+  ![](https://pic1.zhimg.com/80/v2-fa75c2af8dae4b51f23d8d060c26cec4_720w.jpg)
 ## 技能
 
 
 | 被动                                                                           | Q                                                                   | W                                                                   | E                                                                   | R                                                                   |
 |------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
 | ![.](https://pic3.zhimg.com/80/v2-92168fe3f70ec68e6a9e1c74650164e6_720w.png) | ![q](https://game.gtimg.cn/images/lol/act/img/spell/SeraphineQ.png) | ![w](https://game.gtimg.cn/images/lol/act/img/spell/SeraphineW.png) | ![e](https://game.gtimg.cn/images/lol/act/img/spell/SeraphineE.png) | ![r](https://game.gtimg.cn/images/lol/act/img/spell/SeraphineR.png) |
-### 被动
- - ![.](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/1dc29e-2379-11eb-90e5-4ea13705a4c5.gif)
-### Q
- - ![q](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/q.gif)
-### W
- - ![w](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/w.gif)
-### E
- - ![e](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/e.gif)
-### R
- - ![r](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/slR.gif)
+ - ### 被动
+ ![.](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/1dc29e-2379-11eb-90e5-4ea13705a4c5.gif)
+ - ### Q
+ ![q](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/q.gif)
+ - ### W
+ ![w](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/w.gif)
+ - ### E
+ ![e](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/e.gif)
+ - ### R
+ ![r](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/slR.gif)
 
 
 ## 背景故事
