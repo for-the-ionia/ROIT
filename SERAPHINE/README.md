@@ -15,7 +15,8 @@
 
 ---
  - **皮肤**
-  ![](https://pic1.zhimg.com/80/v2-fa75c2af8dae4b51f23d8d060c26cec4_720w.jpg)
+ 
+ ![](https://pic1.zhimg.com/80/v2-fa75c2af8dae4b51f23d8d060c26cec4_720w.jpg)
 ## 技能
 
 
