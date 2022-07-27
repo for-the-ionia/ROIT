@@ -142,3 +142,10 @@
 > 相关故事->[STORY](https://universe.leagueoflegends.com/en_US/story/seraphine-color-story/)
 >
 > ![Pic](https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltff661946224e7ff9/60ee11a54cab5d36c00333b8/seraphine-color-splash.jpg)
+
+##### Statement
+* 本资料搜集自网络，仅介绍相关内容
+* **参考资料不完全统计**
+* [ROIT_LOL](https://www.leagueoflegends.com/en-us/champions/seraphine/)
+* https://universe.leagueoflegends.com/en_US/
+* [WECHAT](https://mp.weixin.qq.com/s/uuTsJz0OFKhN4K1hAxfFTQ)
