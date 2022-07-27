@@ -2,6 +2,8 @@
 
 ### 更新时间2022.07
 
+![SLFN](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg)
+
 |                                    皮尔特沃夫                                    |
 | :-------------------------------------------------------------------------------: |
 | ![piertewofu](https://game.gtimg.cn/images/lol/universe/images/piltover_emblem.png) |
