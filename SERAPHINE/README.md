@@ -37,6 +37,7 @@
 ---
 
 - **皮肤**
+
   ![](https://pic1.zhimg.com/80/v2-fa75c2af8dae4b51f23d8d060c26cec4_720w.jpg)
 
 ## 技能
@@ -54,6 +55,7 @@
 * 萨勒芬妮的普攻会消耗掉己方所有的音符，每个音符会为她提供25攻击距离和（4/8/14/24 + 6/7/8/9%AP）(在1/6/11/16级时)魔法伤害。
 * 来自队友的音符对所有目标均只造成萨勒芬妮的25%音符伤害。
 * 音符对小兵造成300%伤害。
+
   ![.](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/1dc29e-2379-11eb-90e5-4ea13705a4c5.gif)
 
 ###  Q
@@ -100,7 +102,8 @@
 * 萨勒芬妮向前方放出能量，对敌人造成150/200/250（+0.6AP）魔法伤害并魅惑1.25/1.5/1.75秒。
 * 每个在范围内的英雄都会加入表演，来延长该技能的范围。
 * 被命中的友军会将音符数提高到上限。
-  ![r](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/slR.gif)
+
+![r](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/slR.gif)
 
 ## 背景故事
 
@@ -108,4 +111,4 @@
 >
 > 相关故事->[STORY](https://universe.leagueoflegends.com/en_US/story/seraphine-color-story/)
 >
-> ![](https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltff661946224e7ff9/60ee11a54cab5d36c00333b8/seraphine-color-splash.jpg)
+> ![Pic](https://images.contentstack.io/v3/assets/blt187521ff0727be24/bltff661946224e7ff9/60ee11a54cab5d36c00333b8/seraphine-color-splash.jpg)
