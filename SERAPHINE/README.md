@@ -10,7 +10,7 @@
 
 |                                    皮尔特沃夫                                    |                                                          社交账户                                                          |
 | :-------------------------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------:|
-| ![piertewofu](https://game.gtimg.cn/images/lol/universe/images/piltover_emblem.png) | [@seradotwav](https://linktr.ee/seradotwav)![](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/sp20220728_062608_372.png) |
+| ![piertewofu](https://game.gtimg.cn/images/lol/universe/images/piltover_emblem.png) | [@seradotwav](https://linktr.ee/seradotwav) |
 
 > 这首歌是唱给你的！
 
