@@ -7,9 +7,10 @@
 
 ![SLFN](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg)
 
-|                                    皮尔特沃夫                                    |
-| :-------------------------------------------------------------------------------: |
-| ![piertewofu](https://game.gtimg.cn/images/lol/universe/images/piltover_emblem.png) |
+
+|                                    皮尔特沃夫                                    |                                                          社交账户                                                          |
+| :-------------------------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------:|
+| ![piertewofu](https://game.gtimg.cn/images/lol/universe/images/piltover_emblem.png) | [@seradotwav](https://linktr.ee/seradotwav)![](https://raw.githubusercontent.com/for-the-ionia/ROIT/main/SERAPHINE/help/sp20220728_062608_372.png) |
 
 > 这首歌是唱给你的！
 
