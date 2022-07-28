@@ -1,6 +1,7 @@
 # 星籁歌姬 萨勒芬妮 the Starry-Eyed Songstress Seraphine
 
-### 更新时间2022.07
+### 更新时间2022.07 
+##### tg频道：https://t.me/FriesAuti
 
 >你我一起改变世界
 >
